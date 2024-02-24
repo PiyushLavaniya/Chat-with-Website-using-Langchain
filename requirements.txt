@@ -1,0 +1,6 @@
+langchain==0.1.9
+langchain_community==0.0.24
+langchain_core==0.1.26
+langchain_google_genai==0.0.9
+python-dotenv==1.0.1
+streamlit==1.29.0
